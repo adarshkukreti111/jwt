@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iJdzIQ2u4bhVw3lBbWqbDRxitdFK3BEsqrHoogQNc6k=",
+  "Source": "jwtWebApi",
+  "BasePath": "_content/jwtWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
